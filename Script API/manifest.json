@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "",
+		"description": "",
+		"uuid": "",  //random the uuid generator on website
+		"version": [0,1,0],
+		"min_engine_version": [1,20,0] //format version to support in game
+	},
+	"modules": [
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "",
+			"entry": "scripts/Main.js",
+			"version": [0,1,0]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": ""
+		},
+		{
+			"module_name": "@minecraft/server-ui",
+			"version": ""
+		}
+	]
+}
