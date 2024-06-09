@@ -1,2 +1,2 @@
-# Add-ons-Semple
+# Add-ons Semple
 collection of sample add-ons for editor text to test programming skills on the basic json file accessing the Minecraft Bedrock Edition and special is that no installation is required. for Node js from sever module to VSCode for used Script API
