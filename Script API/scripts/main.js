@@ -2,4 +2,4 @@
 import 'custom'
 
 //
-import './scripts/Event Tigger'
+import './scripts/EventTigger/onPlayerInteract'
