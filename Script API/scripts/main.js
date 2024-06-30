@@ -2,4 +2,4 @@
 import 'custom'
 
 //
-import './scripts/'
+import './scripts/Event Tigger'
