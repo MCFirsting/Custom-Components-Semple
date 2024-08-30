@@ -11,8 +11,8 @@
 		],
 		"min_engine_version": [
 			1,
-			20,
-			80
+			21,
+			20
 		]
 	},
 	"modules": [
@@ -31,11 +31,11 @@
 	"dependencies": [
 		{
 			"module_name": "@minecraft/server",
-			"version": ""
+			"version": "1.13.0"
 		},
 		{
 			"module_name": "@minecraft/server-ui",
-			"version": ""
+			"version": "1.12.0"
 		}
 	]
 }
