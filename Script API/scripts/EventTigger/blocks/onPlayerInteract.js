@@ -7,7 +7,9 @@ world.beforeEvents.worldInitialize.subscribe(initEvent => {
             const equipment = player.getComponent('equippable');
             const selectedItem = equipment.getEquipment('Mainhand');
             const UseEvent = custom
-            if (selectedItem.typeId === 'minecraft:name')
+            if (selectedItem.typeId === 'minecraft:name') {
+                //you can add events as desired.
+            }
         }
     });
 })
