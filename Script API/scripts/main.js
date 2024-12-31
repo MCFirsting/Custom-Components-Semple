@@ -5,4 +5,4 @@ import 'custom'
 import './scripts/EventTigger/onPlayerInteract'
 
 //more script simple
-import './scripts/MoreSimple/gun'
+import './scripts/MoreSimple/soon'
