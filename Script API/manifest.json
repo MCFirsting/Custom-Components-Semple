@@ -1,0 +1,47 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "ใส่ช่องคำอธิบาย",
+        "name": "ชื่อแพคตัวอย่าง BP",
+        "uuid": "ใส่ช่องโค๊ด",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        //ใส่ตัวเลขเวอร์ชั่นที่ตัวเกมรองรับ
+        "min_engine_version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            //ประเภทคอนเทนต์ Behavior Pack
+            "type": "data",
+            "uuid": "ใส่ช่องโค๊ด",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            //ใส่ประเภทโมดูลเซิฟเวอร์
+            "module_name": "@minecraft/server",
+            //เวอร์ชั่นปัจจุบันของโมดุลเซิฟเวอร์
+            "version": "0.0.0"
+        },
+        {
+            "uuid": "ใส่ช่องโค๊ดเหมือน Resources Pack (Header)",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
