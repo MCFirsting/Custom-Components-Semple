@@ -18,8 +18,12 @@
     },
     "modules": [
         {
-            //ประเภทคอนเทนต์ Behavior Pack
-            "type": "data",
+            //ประเภทคอนเทนต์ Script API
+            "type": "script",
+            //ภาษาที่เข้าถึง
+            "language": "javascript",
+            //เส้นทางไฟล์ที่เข้าถึงระบบ
+            "entry": "scripts/main.js",
             "uuid": "ใส่ช่องโค๊ด",
             "version": [
                 1,
