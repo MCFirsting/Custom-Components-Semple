@@ -8,7 +8,7 @@
             "mode": "listen",
             "preLaunchTask": "build",
             "targetModuleUuid": "<โมดูล UUID>",
-            "localRoot": "${workspaceFolder}/",
+            "localRoot": "${workspaceFolder}/scripts",
             "port": 19144
         }
     ]
